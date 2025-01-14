@@ -2185,7 +2185,7 @@
 	background-color: var(--pbmit-white-color);
 }
 .header-style-1.site-header .site-branding img{
-	max-height: 40px;
+	min-height: 40px;
 }
 /** Header Style 2 **/
 .header-style-2 .pbmit-pre-header-wrapper,
